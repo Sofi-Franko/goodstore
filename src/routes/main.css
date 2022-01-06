@@ -1,0 +1,9 @@
+.alcoCardsWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.alcoCard {
+    padding: 3% 0;
+}

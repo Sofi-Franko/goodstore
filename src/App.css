@@ -24,8 +24,8 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.alcosContainer {
+  padding: 0 5%;
 }
 
 @keyframes App-logo-spin {
